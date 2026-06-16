@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Emergency-Evacuation-Planner/static/css/main.5e261423.css",
+    "main.js": "/Emergency-Evacuation-Planner/static/js/main.9b51bad9.js",
+    "static/js/453.20359781.chunk.js": "/Emergency-Evacuation-Planner/static/js/453.20359781.chunk.js",
+    "index.html": "/Emergency-Evacuation-Planner/index.html",
+    "main.5e261423.css.map": "/Emergency-Evacuation-Planner/static/css/main.5e261423.css.map",
+    "main.9b51bad9.js.map": "/Emergency-Evacuation-Planner/static/js/main.9b51bad9.js.map",
+    "453.20359781.chunk.js.map": "/Emergency-Evacuation-Planner/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e261423.css",
+    "static/js/main.9b51bad9.js"
+  ]
+}
